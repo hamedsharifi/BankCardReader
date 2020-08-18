@@ -1,0 +1,3 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="camera_text" tools:ignore="ExtraTranslation">کارت را در نور مناسب درون کادر قرار دهید</string>
+</resources>
